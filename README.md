@@ -4,7 +4,7 @@ Portfolio de proyectos de programación | Estudiante de Tecnicatura en Programac
 
 **💣 Juego "Desactivar bomba" – Trabajo práctico final - Materia Laboratorio de computación I.**
 
-Proyecto realizado en equipo para la materia Laboratorio de Computación 1 de la carrera de Programación Informática.
+Proyecto realizado en **equipo** para la materia Laboratorio de Computación 1 de la carrera de Programación Informática.
 
 El objetivo fue desarrollar un juego interactivo estilo “desactivar la bomba” utilizando Arduino y componentes electrónicos básicos, integrando conceptos de programación en C, lógica y hardware.
 

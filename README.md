@@ -39,4 +39,12 @@ Además de cumplir con los requisitos de la materia, este proyecto me permitió 
 Lógica de programación, resolución de problemas, conexión de circuitos electrónicos,y desarrollo de proyectos interactivos con microcontroladores.
 
 
+<img width="700" height="700" alt="WhatsApp Image 2026-05-18 at 13 31 51" src="https://github.com/user-attachments/assets/f1b91e2f-4aa5-4098-a64f-05a65ff7bddf" />
+
+<img width="700" height="700" alt="WhatsApp Image 2026-05-18 at 13 31 51 (1)" src="https://github.com/user-attachments/assets/abf1dd4d-1f03-4bd8-b078-e26b45ff2268" />
+
+https://github.com/user-attachments/assets/c3aa1f16-e6dc-438f-ac4c-8030bcbaaf32
+
+
+
 
